@@ -1,0 +1,10 @@
+file:c:\users\ricky\desktop\c2\code\c语言预处理\c语言预处理\test.c line:11 date:Jan 30 2021 time:10:19:29 i=0
+file:c:\users\ricky\desktop\c2\code\c语言预处理\c语言预处理\test.c line:11 date:Jan 30 2021 time:10:19:29 i=1
+file:c:\users\ricky\desktop\c2\code\c语言预处理\c语言预处理\test.c line:11 date:Jan 30 2021 time:10:19:29 i=2
+file:c:\users\ricky\desktop\c2\code\c语言预处理\c语言预处理\test.c line:11 date:Jan 30 2021 time:10:19:29 i=3
+file:c:\users\ricky\desktop\c2\code\c语言预处理\c语言预处理\test.c line:11 date:Jan 30 2021 time:10:19:29 i=4
+file:c:\users\ricky\desktop\c2\code\c语言预处理\c语言预处理\test.c line:11 date:Jan 30 2021 time:10:19:29 i=5
+file:c:\users\ricky\desktop\c2\code\c语言预处理\c语言预处理\test.c line:11 date:Jan 30 2021 time:10:19:29 i=6
+file:c:\users\ricky\desktop\c2\code\c语言预处理\c语言预处理\test.c line:11 date:Jan 30 2021 time:10:19:29 i=7
+file:c:\users\ricky\desktop\c2\code\c语言预处理\c语言预处理\test.c line:11 date:Jan 30 2021 time:10:19:29 i=8
+file:c:\users\ricky\desktop\c2\code\c语言预处理\c语言预处理\test.c line:11 date:Jan 30 2021 time:10:19:29 i=9
